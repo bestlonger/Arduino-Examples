@@ -8,7 +8,6 @@ https://www.theboredrobot.com/post/reading-values-from-an-rc-receiver-using-ardu
 
 //define the pins and variables
 #define RCPin 2
-volatile long TimeStamp = 0;
 volatile long StartTime = 0;
 volatile long CurrentTime = 0;
 volatile long Pulses = 0;
